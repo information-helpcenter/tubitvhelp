@@ -8,7 +8,7 @@ Learn how to instantly enter your activation code and link your device at tubi.t
 
 .. image:: activatenow.png
    :alt: tubi.tv/activate
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://pre.im/?7jTU4agrxmbHc73mFMzlziBi6sdIr8lgMEC8QdMGAq0ftvomcR
 
 ========================================
 How to Quickly Find Your Tubi.tv Activation Code on Any Device?
